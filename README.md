@@ -1,16 +1,17 @@
-# namer_app
+# Namer App
 
-A new Flutter project.
+![Alt text](img/home.png "HomeScreen")
 
-## Getting Started
+An App which creates a series of randomly generated names which can be liked and saved in a liked section.
 
-This project is a starting point for a Flutter application.
+## Home Page
 
-A few resources to get you started if this is your first Flutter project:
+you can either click next or like the name which is displayed
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Alt text](img/Home_Page.png "HomeScreen")
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Like Page 
+
+you can view all the name you liked in the past
+
+![Alt text](img/Like_Page.png "HomeScreen")
